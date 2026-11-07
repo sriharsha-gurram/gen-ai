@@ -1,3 +1,12 @@
+# Gen AI — Mastering Agentic AI Course Projects
+
+This repo holds SriHarsha Gurram's projects for Mastering Agentic AI (The Gen Academy, Maven, Oct–Nov 2026 cohort).
+
+- **Week 2 — Enterprise Policy Q&A Bot** (this directory, repo root): a RAG application over the public GitLab Handbook. See below.
+- **Week 3 — Market Research Agent** (`week3-market-research-agent/`): a LangGraph multi-agent researcher that produces cited 3-competitor briefings from live web search, with human checkpoints before anything is final.
+
+---
+
 # Week 2 Project — Build Your RAG Application
 
 **Enterprise Policy Q&A Bot** — a RAG application over the public GitLab
