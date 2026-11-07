@@ -1,0 +1,7 @@
+# Core
+requests>=2.31
+# Orchestration
+langgraph>=1.2
+langchain-core>=1.7
+# UI
+streamlit>=1.37

@@ -1,0 +1,206 @@
+[
+  {
+    "market": "AI integration platforms (iPaaS)",
+    "run_id": "ai-integration-platforms-ipaas-20261107-201336",
+    "status": "done",
+    "claims_found": 15,
+    "claims_judged": 10,
+    "grounded": 9,
+    "partial": 1,
+    "ungrounded": 0,
+    "groundedness": 0.9,
+    "completeness": {
+      "MuleSoft": {
+        "pricing_model": true,
+        "starting_price": true,
+        "core_features": true,
+        "positioning": true,
+        "recent_news": false
+      },
+      "Boomi": {
+        "pricing_model": true,
+        "starting_price": true,
+        "core_features": true,
+        "positioning": true,
+        "recent_news": false
+      },
+      "Workato": {
+        "pricing_model": true,
+        "starting_price": true,
+        "core_features": true,
+        "positioning": true,
+        "recent_news": false
+      }
+    },
+    "citations_total": 14,
+    "citations_in_sources": 14,
+    "citation_coverage": 1.0,
+    "urls_live_checked": {
+      "https://www.mulesoft.com/pricing": true,
+      "https://www.integrate.io/blog/mulesoft-cost": true,
+      "https://www.salesforce.com/mulesoft/pricing": true,
+      "https://www.mulesoft.com": true,
+      "https://www.oneio.cloud/blog/what-is-mulesoft-used-for": true,
+      "https://checkthat.ai/brands/boomi/pricing": true
+    },
+    "credits_used": 14,
+    "providers_used": [
+      "openai"
+    ],
+    "errors": 0,
+    "judged_claims": [
+      {
+        "claim": "MuleSoft's pricing model is capacity-based, utilizing flows and messages for its cost structure .",
+        "url": "https://www.integrate.io/blog/mulesoft-cost",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "The starting price for MuleSoft is $2,000 per month .",
+        "url": "https://www.mulesoft.com/pricing",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "MuleSoft is positioned as the world\u2019s #1 integration and API platform .",
+        "url": "https://www.salesforce.com/mulesoft/pricing",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "It offers API management capabilities that support APIs throughout their entire lifecycle, from design and security to monitoring and discovery .",
+        "url": "https://www.mulesoft.com",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "Extensive customization capabilities are available within the platform .",
+        "url": "https://www.oneio.cloud/blog/what-is-mulesoft-used-for",
+        "verdict": "partial"
+      },
+      {
+        "claim": "Boomi operates on a tiered subscription pricing model with pay-as-you-go options .",
+        "url": "https://www.integrate.io/blog/boomi-pricing",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "The starting price for Boomi is $99 per month plus usage .",
+        "url": "https://ezintegrations.ai/ezintegrations-vs-boomi",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "Boomi is positioned as a cloud-native, loosely coupled integration framework that supports microservices and hybrid deployments .",
+        "url": "https://oditeksolutions.com/webmethods-to-boomi-migration",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "Notably, it provides unlimited connections to applications and data sources .",
+        "url": "https://checkthat.ai/brands/boomi/pricing",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "The platform also allows for unlimited users without per-seat licensing , and includes standard 24/7 support .",
+        "url": "https://checkthat.ai/brands/boomi/pricing",
+        "verdict": "grounded"
+      }
+    ]
+  },
+  {
+    "market": "vector databases",
+    "run_id": "vector-databases-20261107-201429",
+    "status": "done",
+    "claims_found": 19,
+    "claims_judged": 10,
+    "grounded": 10,
+    "partial": 0,
+    "ungrounded": 0,
+    "groundedness": 1.0,
+    "completeness": {
+      "Pinecone": {
+        "pricing_model": true,
+        "starting_price": true,
+        "core_features": true,
+        "positioning": true,
+        "recent_news": false
+      },
+      "Milvus": {
+        "pricing_model": true,
+        "starting_price": true,
+        "core_features": true,
+        "positioning": true,
+        "recent_news": false
+      },
+      "Weaviate": {
+        "pricing_model": true,
+        "starting_price": true,
+        "core_features": true,
+        "positioning": true,
+        "recent_news": false
+      }
+    },
+    "citations_total": 8,
+    "citations_in_sources": 8,
+    "citation_coverage": 1.0,
+    "urls_live_checked": {
+      "https://docs.pinecone.io/guides/manage-cost/understanding-cost": true,
+      "https://airbyte.com/data-engineering-resources/pinecone-vector-database": true,
+      "https://airbyte.com/data-engineering-resources/milvus-database-pricing": true,
+      "https://milvus.io/docs/comparison.md": false,
+      "https://www.eesel.ai/blog/weaviate-pricing": true,
+      "https://weaviate.io/pricing": true
+    },
+    "credits_used": 14,
+    "providers_used": [
+      "openai"
+    ],
+    "errors": 0,
+    "judged_claims": [
+      {
+        "claim": "Pinecone operates on a pricing model that involves a monthly minimum commitment based on the selected subscription plan .",
+        "url": "https://docs.pinecone.io/guides/manage-cost/understanding-cost",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "The starting price for the Starter plan is $0 per month .",
+        "url": "https://docs.pinecone.io/guides/manage-cost/understanding-cost",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "Pinecone is positioned as a leading vector database solution for AI applications .",
+        "url": "https://airbyte.com/data-engineering-resources/pinecone-vector-database",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "It offers fast similarity search capabilities across millions of data points .",
+        "url": "https://airbyte.com/data-engineering-resources/pinecone-vector-database",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "The platform also features managed infrastructure with automatic scaling .",
+        "url": "https://airbyte.com/data-engineering-resources/pinecone-vector-database",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "Users benefit from sub-second query performance  and integration with modern data stacks .",
+        "url": "https://airbyte.com/data-engineering-resources/pinecone-vector-database",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "Milvus provides an open-source and managed cloud pricing model .",
+        "url": "https://airbyte.com/data-engineering-resources/milvus-database-pricing",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "The starting price for their services is $99 per month .",
+        "url": "https://airbyte.com/data-engineering-resources/milvus-database-pricing",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "It is suitable for organizations needing a high-performance vector database solution .",
+        "url": "https://airbyte.com/data-engineering-resources/milvus-database-pricing",
+        "verdict": "grounded"
+      },
+      {
+        "claim": "Milvus grants full access to basic features through a free tier .",
+        "url": "https://airbyte.com/data-engineering-resources/milvus-database-pricing",
+        "verdict": "grounded"
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+# Run state and generated briefings are local by default; only the
+# samples folder is committed so reviewers can see real output.
+data/runs/
+data/briefings/*
+!data/briefings/samples/
+!data/briefings/samples/*
