@@ -1,0 +1,266 @@
+{
+  "corpus": "GitLab Handbook \u2014 People Group / HR policy sections",
+  "source_site": "https://handbook.gitlab.com",
+  "license": "CC BY-SA 4.0 (GitLab Handbook, as stated in the handbook footer)",
+  "scraped_on": "2026-11-07",
+  "scraper": "src/scrape.py (requests + BeautifulSoup, 1s delay, no login)",
+  "doc_count": 29,
+  "total_chars": 551416,
+  "total_words": 86933,
+  "documents": [
+    {
+      "slug": "time-off-and-absence",
+      "title": "Time Off and Absence at GitLab",
+      "url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence",
+      "chars": 1890,
+      "words": 289,
+      "file": "data/raw/time-off-and-absence.md"
+    },
+    {
+      "slug": "general-onboarding",
+      "title": "GitLab Onboarding",
+      "url": "https://handbook.gitlab.com/handbook/people-group/general-onboarding",
+      "chars": 7880,
+      "words": 1265,
+      "file": "data/raw/general-onboarding.md"
+    },
+    {
+      "slug": "acceptable-use-policy",
+      "title": "GitLab Internal Acceptable Use Policy",
+      "url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy",
+      "chars": 18284,
+      "words": 2755,
+      "file": "data/raw/acceptable-use-policy.md"
+    },
+    {
+      "slug": "anti-harassment",
+      "title": "Anti-Harassment Policy",
+      "url": "https://handbook.gitlab.com/handbook/people-group/anti-harassment",
+      "chars": 36543,
+      "words": 5526,
+      "file": "data/raw/anti-harassment.md"
+    },
+    {
+      "slug": "learning-and-development",
+      "title": "Talent Development",
+      "url": "https://handbook.gitlab.com/handbook/people-group/learning-and-development",
+      "chars": 11655,
+      "words": 1708,
+      "file": "data/raw/learning-and-development.md"
+    },
+    {
+      "slug": "promotions-transfers",
+      "title": "Promotions and Transfers",
+      "url": "https://handbook.gitlab.com/handbook/people-group/promotions-transfers",
+      "chars": 50635,
+      "words": 8228,
+      "file": "data/raw/promotions-transfers.md"
+    },
+    {
+      "slug": "talent-assessment",
+      "title": "Talent Assessment",
+      "url": "https://handbook.gitlab.com/handbook/people-group/talent-assessment",
+      "chars": 84566,
+      "words": 12956,
+      "file": "data/raw/talent-assessment.md"
+    },
+    {
+      "slug": "360-feedback",
+      "title": "360 Feedback",
+      "url": "https://handbook.gitlab.com/handbook/people-group/360-feedback",
+      "chars": 15063,
+      "words": 2362,
+      "file": "data/raw/360-feedback.md"
+    },
+    {
+      "slug": "competencies",
+      "title": "Competencies",
+      "url": "https://handbook.gitlab.com/handbook/people-group/competencies",
+      "chars": 5235,
+      "words": 757,
+      "file": "data/raw/competencies.md"
+    },
+    {
+      "slug": "relocation",
+      "title": "Relocation",
+      "url": "https://handbook.gitlab.com/handbook/people-group/relocation",
+      "chars": 40846,
+      "words": 6629,
+      "file": "data/raw/relocation.md"
+    },
+    {
+      "slug": "visas",
+      "title": "Visas",
+      "url": "https://handbook.gitlab.com/handbook/people-group/visas",
+      "chars": 40106,
+      "words": 6664,
+      "file": "data/raw/visas.md"
+    },
+    {
+      "slug": "celebrations",
+      "title": "New Hires, Celebrations and Significant Life Events",
+      "url": "https://handbook.gitlab.com/handbook/people-group/celebrations",
+      "chars": 5143,
+      "words": 840,
+      "file": "data/raw/celebrations.md"
+    },
+    {
+      "slug": "employment-solutions",
+      "title": "Employment Solutions - Overview",
+      "url": "https://handbook.gitlab.com/handbook/people-group/employment-solutions",
+      "chars": 6747,
+      "words": 1076,
+      "file": "data/raw/employment-solutions.md"
+    },
+    {
+      "slug": "team-member-relations",
+      "title": "Team Member Relations at GitLab",
+      "url": "https://handbook.gitlab.com/handbook/people-group/team-member-relations",
+      "chars": 5620,
+      "words": 842,
+      "file": "data/raw/team-member-relations.md"
+    },
+    {
+      "slug": "engagement",
+      "title": "Engagement Surveys and Employer Awards",
+      "url": "https://handbook.gitlab.com/handbook/people-group/engagement",
+      "chars": 39783,
+      "words": 6227,
+      "file": "data/raw/engagement.md"
+    },
+    {
+      "slug": "all-remote",
+      "title": "All Remote",
+      "url": "https://handbook.gitlab.com/handbook/company/culture/all-remote",
+      "chars": 5234,
+      "words": 833,
+      "file": "data/raw/all-remote.md"
+    },
+    {
+      "slug": "guidance-on-feedback",
+      "title": "Guidance on Feedback",
+      "url": "https://handbook.gitlab.com/handbook/people-group/guidance-on-feedback",
+      "chars": 11739,
+      "words": 1849,
+      "file": "data/raw/guidance-on-feedback.md"
+    },
+    {
+      "slug": "quarterly-talent-review",
+      "title": "Quarterly Talent Review (QTR)",
+      "url": "https://handbook.gitlab.com/handbook/people-group/quarterly-talent-review",
+      "chars": 4350,
+      "words": 693,
+      "file": "data/raw/quarterly-talent-review.md"
+    },
+    {
+      "slug": "people-compliance",
+      "title": "Global People Compliance at GitLab",
+      "url": "https://handbook.gitlab.com/handbook/people-group/people-compliance",
+      "chars": 1773,
+      "words": 235,
+      "file": "data/raw/people-compliance.md"
+    },
+    {
+      "slug": "pronouns",
+      "title": "Pronoun Guidance and Information",
+      "url": "https://handbook.gitlab.com/handbook/people-group/pronouns",
+      "chars": 9615,
+      "words": 1569,
+      "file": "data/raw/pronouns.md"
+    },
+    {
+      "slug": "givelab-volunteer",
+      "title": "GiveLab Volunteer Initiatives",
+      "url": "https://handbook.gitlab.com/handbook/people-group/givelab-volunteer-initiatives",
+      "chars": 3640,
+      "words": 566,
+      "file": "data/raw/givelab-volunteer.md"
+    },
+    {
+      "slug": "people-group-index",
+      "title": "People Group",
+      "url": "https://handbook.gitlab.com/handbook/people-group/",
+      "chars": 21926,
+      "words": 3279,
+      "file": "data/raw/people-group-index.md"
+    },
+    {
+      "slug": "leave-types",
+      "title": "Leave Types",
+      "url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/leave-types",
+      "chars": 17076,
+      "words": 2793,
+      "file": "data/raw/leave-types.md"
+    },
+    {
+      "slug": "time-away-philosophy",
+      "title": "Time Away Philosophy",
+      "url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-away-philosophy",
+      "chars": 15153,
+      "words": 2358,
+      "file": "data/raw/time-away-philosophy.md"
+    },
+    {
+      "slug": "time-off-types",
+      "title": "Time Off Types",
+      "url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types",
+      "chars": 27116,
+      "words": 4326,
+      "file": "data/raw/time-off-types.md"
+    },
+    {
+      "slug": "offboarding",
+      "title": "GitLab Offboarding",
+      "url": "https://handbook.gitlab.com/handbook/people-group/offboarding",
+      "chars": 36645,
+      "words": 5863,
+      "file": "data/raw/offboarding.md"
+    },
+    {
+      "slug": "onboarding-buddies",
+      "title": "GitLab Onboarding Buddies",
+      "url": "https://handbook.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies",
+      "chars": 9998,
+      "words": 1714,
+      "file": "data/raw/onboarding-buddies.md"
+    },
+    {
+      "slug": "mr-buddies",
+      "title": "Merge Request Buddies",
+      "url": "https://handbook.gitlab.com/handbook/people-group/general-onboarding/mr-buddies",
+      "chars": 1995,
+      "words": 318,
+      "file": "data/raw/mr-buddies.md"
+    },
+    {
+      "slug": "tanewki-tips",
+      "title": "TaNewKi Tips",
+      "url": "https://handbook.gitlab.com/handbook/people-group/general-onboarding/tanewki-tips",
+      "chars": 15160,
+      "words": 2413,
+      "file": "data/raw/tanewki-tips.md"
+    }
+  ],
+  "dropped": [
+    {
+      "slug": "_index.md",
+      "url": "https://gitlab.com/gitlab-com/content-sites/handbook/blob/main/content/handbook/people-group/time-off-and-absence/_index.md",
+      "reason": "too short (7 chars)"
+    },
+    {
+      "slug": "_index.md",
+      "url": "https://gitlab.com/-/ide/project/gitlab-com/content-sites/handbook/edit/main/-/content/handbook/people-group/time-off-and-absence/_index.md",
+      "reason": "fetch failed"
+    },
+    {
+      "slug": "_index.md",
+      "url": "https://gitlab.com/gitlab-com/content-sites/handbook/blob/main/content/handbook/people-group/general-onboarding/_index.md",
+      "reason": "fetch failed"
+    },
+    {
+      "slug": "_index.md",
+      "url": "https://gitlab.com/-/ide/project/gitlab-com/content-sites/handbook/edit/main/-/content/handbook/people-group/general-onboarding/_index.md",
+      "reason": "fetch failed"
+    }
+  ]
+}
