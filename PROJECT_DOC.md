@@ -1,7 +1,7 @@
 # Week 2 Project — Build Your RAG Application: Enterprise Policy Q&A Bot
 
 **Author:** SriHarsha Gurram — Mastering Agentic AI, The Gen Academy, October 2026 cohort
-**Repo:** (GitHub link added on submission)
+**Repo:** https://github.com/sriharsha-gurram/gen-ai
 **Track:** Code-heavy — Python, LangChain-style primitives implemented directly on the OpenAI API (first build ran on Gemini; switched Nov 7, 2026 — see Iterations)
 
 ## Project overview
